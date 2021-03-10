@@ -1,4 +1,4 @@
-[Chinook_SqlServer_AutoIncrementPKs.sql](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c657cf8f-ea75-4dfa-a10e-d0acd05b9d50/Chinook_SqlServer_AutoIncrementPKs.sql)
+[Chinook_SqlServer_AutoIncrementPKs.sql](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c657cf8f-ea75-4dfa-a10e-d0acd05b9d50/Chinook_SqlServer_AutoIncrementPKs.sql?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210310%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210310T005315Z&X-Amz-Expires=86400&X-Amz-Signature=562a2a48a8b23d0fb1f7651182eaf65277977b534a2870a23f810cffee035896&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Chinook_SqlServer_AutoIncrementPKs.sql%22)
 
 Please provide SQL queries for each of the questions below. SQL files end in `.sql` and can be committed to GitHub.
 
